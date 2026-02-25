@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <Your Name> 👋</h1>
+  <h1>Hi, I'm Seftian</h1>
   <p><b>Android Developer | 3+ Years Experience | Kotlin Enthusiast</b></p>
   
   <p>Always thriving to tackle new challenges in software engineering and building high-quality mobile experiences.</p>
