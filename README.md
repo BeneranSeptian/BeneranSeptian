@@ -34,7 +34,7 @@
 ### 🎮 Gaming & Hobbies
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561198304458569">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198304458569&theme=tokyonight" alt="Steam Now Playing" />
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198304458569&show_in_game_bg=true&show_recent_game_bg=true" />
   </a>
   <p><i>When I'm not coding, I'm likely playing games on Steam or read some fantasy novel </i></p>
 </div>
